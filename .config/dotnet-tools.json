@@ -1,5 +1,30 @@
 {
   "version": 1,
   "isRoot": true,
-  "tools": {}
+  "tools": {
+    "dotnet-ef": {
+      "version": "6.0.4",
+      "commands": [
+        "dotnet-ef"
+      ]
+    },
+    "dotnet-sql-cache": {
+      "version": "6.0.4",
+      "commands": [
+        "dotnet-sql-cache"
+      ]
+    },
+    "microsoft.dotnet-openapi": {
+      "version": "6.0.4",
+      "commands": [
+        "dotnet-openapi"
+      ]
+    },
+    "dotnet-aspnet-codegenerator": {
+      "version": "6.0.3",
+      "commands": [
+        "dotnet-aspnet-codegenerator"
+      ]
+    }
+  }
 }
